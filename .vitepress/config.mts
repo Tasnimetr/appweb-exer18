@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Exercice 18",
   description: "Exercice formatif numéro 18",
+  base: '/appweb-exer18/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
